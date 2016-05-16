@@ -3,6 +3,8 @@ marcelorodrigo/apache-php-kohana
 
 Base docker image to run legacy Kohana PHP 2.3.x applications on Apache / PHP 5.3
 
+[![](https://imagelayers.io/badge/marcelorodrigo/apache-php-kohana:latest.svg)](https://imagelayers.io/?images=marcelorodrigo/apache-php-kohana:latest 'Get your own badge on imagelayers.io')
+
 
 Running your Kohana-2.3.x docker image
 --------------------------------------
