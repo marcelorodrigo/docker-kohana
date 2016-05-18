@@ -4,7 +4,7 @@ ENV DOCUMENTROOT=public_html
 
 # Update packages and install apache + php5.3
 RUN DEBIAN_FRONTEND=noninteractive apt-get -y update && \
-	apt-get -yq install \
+	apt-get -yq install --no-install-recommends \
 	curl \
 	php5 \
 	php5-gd \
