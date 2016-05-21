@@ -34,9 +34,8 @@ You can customize using DOCUMENTROOT enviroment variable:
 Loading your Kohana application inside the image
 -----------------------------------------------
 
-This image can be used as a base image for your application. Create a new `Dockerfile` in a new folder
-and put your  your
-Kohana root folder with the following contents:
+This image can be used as a base image for your application.
+Create a new `Dockerfile` in a new folder and put your Kohana root folder with the following contents:
 
     FROM marcelorodrigo/apache-php-kohana
     RUN rm -rf /app
