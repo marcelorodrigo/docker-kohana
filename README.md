@@ -3,8 +3,9 @@ marcelorodrigo/apache-php-kohana
 
 Base docker image to run legacy Kohana PHP 2.3.x applications on Apache / PHP 5.3
 
-[![](https://imagelayers.io/badge/marcelorodrigo/apache-php-kohana:latest.svg)](https://imagelayers.io/?images=marcelorodrigo/apache-php-kohana:latest 'Get your own badge on imagelayers.io')
+[![Docker Stars](https://img.shields.io/docker/stars/marcelorodrigo/apache-php-kohana.svg?maxAge=2592000)]()
 [![Docker Pulls](https://img.shields.io/docker/pulls/marcelorodrigo/apache-php-kohana.svg?maxAge=2592000)]()
+[![We love bikes](https://img.shields.io/badge/we%20love-bikes-orange.svg)]()
 
 
 Running your Kohana-2.3.x docker image
