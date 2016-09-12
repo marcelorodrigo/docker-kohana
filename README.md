@@ -5,6 +5,7 @@ Base docker image to run legacy Kohana PHP 2.3.x applications on Apache / PHP 5.
 
 [![Docker Stars](https://img.shields.io/docker/stars/marcelorodrigo/apache-php-kohana.svg?maxAge=2592000)]()
 [![Docker Pulls](https://img.shields.io/docker/pulls/marcelorodrigo/apache-php-kohana.svg?maxAge=2592000)]()
+[![](https://images.microbadger.com/badges/image/marcelorodrigo/apache-php-kohana.svg)](http://microbadger.com/images/marcelorodrigo/apache-php-kohana)
 [![We love bikes](https://img.shields.io/badge/we%20love-bikes-orange.svg)]()
 
 
