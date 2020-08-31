@@ -1,4 +1,4 @@
-FROM ubuntu:12.04
+FROM ubuntu:12.10
 MAINTAINER Marcelo Rodrigo <mrodrigow@gmail.com>
 ENV DOCUMENTROOT=public_html
 
